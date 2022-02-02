@@ -22,8 +22,8 @@ export default function Home() {
           <code className={styles.code}>pages/index.js</code>
         </p>
 
-        <Link href="/page-two">
-          <a>go to page two</a>
+        <Link href="/">
+          <a>go to page one</a>
         </Link>
 
         <div className={styles.grid}>
